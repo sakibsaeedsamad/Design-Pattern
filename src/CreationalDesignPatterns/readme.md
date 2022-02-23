@@ -6,12 +6,12 @@ But everyone knows an object is created by using new keyword in java. For exampl
 StudentRecord s1=new StudentRecord();  
 Hard-Coded code is not the good programming approach. Here, we are creating the instance by using the new keyword. Sometimes, the nature of the object must be changed according to the nature of the program. In such cases, we must get the help of creational design patterns to provide more general and flexible approach.
 
-#Types of creational design patterns
+# Types of creational design patterns
 There are following 6 types of creational design patterns.
 
-##Factory Method Pattern
-##Abstract Factory Pattern
-##Singleton Pattern
-##Prototype Pattern
-##Builder Pattern
-##Object Pool Pattern
+## Factory Method Pattern
+## Abstract Factory Pattern
+## Singleton Pattern
+## Prototype Pattern
+## Builder Pattern
+## Object Pool Pattern
